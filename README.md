@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MohankumarEdu
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning AI, Machine Learning, Data science
+- 📫 How to reach me Email: mohankumarbabuedu@gmail.com
